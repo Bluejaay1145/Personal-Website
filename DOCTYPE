@@ -1,0 +1,90 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yonathan Mendenhall - Resume</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: #fff;
+        }
+        header {
+            text-align: center;
+            padding: 50px 20px;
+            background: rgba(0, 0, 0, 0.5);
+        }
+        header h1 {
+            font-size: 3rem;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.2rem;
+            margin: 10px 0 0;
+        }
+        section {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+        section h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #fff;
+            padding-bottom: 10px;
+        }
+        section p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
+        }
+        a {
+            color: #ffcc00;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Yonathan Mendenhall</h1>
+        <p>Passionate about technology and innovation</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hello! My name is Yonathan Mendenhall, and I am currently pursuing my Bachelor's degree in Computer Science. 
+            I have been in school for 2 years now, and I am deeply interested in technology, programming, and solving complex problems.
+        </p>
+    </section>
+    <section>
+        <h2>Contact</h2>
+        <p>
+            Feel free to reach out to me via email or connect with me on LinkedIn. I am always open to discussing new opportunities and collaborations.
+        </p>
+        <p>
+            <strong>Email:</strong> <a href="mailto:yonathan@example.com">yonathan@example.com</a><br>
+            <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yonathanmendenhall" target="_blank">linkedin.com/in/yonathanmendenhall</a>
+        </p>
+    </section>
+    <footer>
+        <p>&copy; 2023 Yonathan Mendenhall. All rights reserved.</p>
+    </footer>
+</body>
+</html>
